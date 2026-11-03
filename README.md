@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Andrew5yungk
 - 👀 I’m interested in Programming, Puzzles, Gaming, Art, and discovering good food.
-- 🌱 I’m currently learning Full Stack Software Developement.
+- 🌱 I’m currently a Freelance Full Stack Software Developer.
 - 💞️ I’m looking to collaborate on anything I can.
-- 📫 How to reach me andrew5yungk@gmail.com
+- 📫 How to reach me andrew5yungk@gmail.com or on my LinkedIn www.linkedin.com/in/andrew5yungk 
 - ⚡ Fun fact: I have monochromia grey eyes that only 2% of the population of earth has.
-I am the Disco King!
+Code on and innovate!
 
 <!---
 Andrew5yungk/Andrew5yungk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
